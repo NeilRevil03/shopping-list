@@ -21,7 +21,7 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+    <div className="min-h-screen bg-black flex items-center justify-center">
       <div className="bg-white p-6 rounded-2xl shadow-lg w-80">
         <h1 className="text-2xl font-bold mb-4 text-center">Shopping List</h1>
 
